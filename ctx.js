@@ -4,7 +4,7 @@ module.exports = function(resX, resY) {
   if (ctx === null) {
     var canvas = document.createElement("canvas")
 
-    canvas.width = resX || 800;
+    canvas.width = resX || 1024;
     canvas.height = resY || 600;
 
     document.body.style.margin = "0";
