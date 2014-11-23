@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "start": "beefy main.js --open --live"
+    "start": "beefy main.js --open --live",
+    "build": "browserify main.js > bundle.js"
   },
   "devDependencies": {
     "beefy": "^2.1.1",
