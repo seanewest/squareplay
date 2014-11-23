@@ -1,6 +1,8 @@
 # Expanding Square
 *An html5 canvas example of an expanding square*
 
+![](expanding.png)
+
 ## Live Demo
 [Square Play](http://seanewest.github.io/squareplay)
 
