@@ -1,0 +1,12 @@
+{
+  "name": "squareplay",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "beefy main.js --open --live"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^6.3.2"
+  }
+}
