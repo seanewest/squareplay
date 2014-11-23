@@ -3,7 +3,7 @@ var ctx = require('./ctx')();
 var keydown = require('./keydown');
 
 var clearBackground = function() {
-  ctx.fillStyle = "gray";
+  ctx.fillStyle = "blue";
   ctx.fillRect(0, 0, ctx.canvas.width, ctx.canvas.height)
 }
 
