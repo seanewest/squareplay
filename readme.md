@@ -14,3 +14,8 @@ cd squareplay
 ```
 npm start
 ```
+
+## Build (gh-pages)
+```
+npm run build
+```
