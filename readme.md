@@ -2,7 +2,7 @@
 *An html5 canvas example of an expanding square*
 
 ## Live Demo
-[Square Play](http://seanewest/github.io/squareplay)
+[Square Play](http://seanewest.github.io/squareplay)
 
 ## Install Locally
 ```
