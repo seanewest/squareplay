@@ -13,7 +13,7 @@ module.exports = function(resX, resY) {
   if (ctx === null) {
     var canvas = document.createElement("canvas")
 
-    canvas.width = resX || 800;
+    canvas.width = resX || 1024;
     canvas.height = resY || 600;
 
     document.body.style.margin = "0";
@@ -57,7 +57,7 @@ var ctx = require('./ctx')();
 var keydown = require('./keydown');
 
 var clearBackground = function() {
-  ctx.fillStyle = "gray";
+  ctx.fillStyle = "blue";
   ctx.fillRect(0, 0, ctx.canvas.width, ctx.canvas.height)
 }
 
